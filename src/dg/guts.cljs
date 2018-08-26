@@ -46,7 +46,6 @@
                     d)
         elapsed (- full-dur dur-left)
         finished-factor (/ elapsed full-dur)]
-    (prn :hide dur-left)
     (if (< dur-left 0.0)
       (do
         (set-visibility obj false)
