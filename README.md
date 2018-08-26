@@ -8,4 +8,4 @@ Dragging disappearing circles for my kid (clojurescript/pixijs/touch events).
 
 ## Just show me
 
-https://fenoloftaleina.github.io/dg/
+https://fenoloftaleina.github.io/dg/resources/public
