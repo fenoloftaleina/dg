@@ -14,4 +14,4 @@ https://fenoloftaleina.github.io/dg/resources/public
 
 https://exp.host/@fenoloftaleina/dg-native-container
 
-You'll need an Expo Client to run this, but it's published and all. Check https://github.com/fenoloftaleina/dg-expo-container for details about how the native app was created.
+You'll need an Expo Client to run this, but it's published and all (if you're on iOS, my password is "seriouslyapple?" - https://blog.expo.io/upcoming-limitations-to-ios-expo-client-8076d01aee1a). Check https://github.com/fenoloftaleina/dg-expo-container for details about how the native app was created.
