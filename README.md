@@ -9,3 +9,9 @@ Dragging disappearing circles for my kid (clojurescript/pixijs/touch events).
 ## Just show me
 
 https://fenoloftaleina.github.io/dg/resources/public
+
+## I wanna see it fully working on mobile
+
+https://exp.host/@fenoloftaleina/dg-native-container
+
+You'll need an Expo Client to run this, but it's published and all. Check https://github.com/fenoloftaleina/dg-expo-container for details about how the native app was created.
