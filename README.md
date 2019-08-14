@@ -8,7 +8,7 @@ Dragging disappearing circles for my kid (clojurescript/pixijs/touch events).
 
 ## Just show me
 
-https://fenoloftaleina.github.io/dg/resources/public
+https://fenoloftaleina.github.io/dg/resources/public (don't forget about the mobile view or opening it on your phone, it uses touch events)
 
 ## I wanna see it fully working on mobile
 
